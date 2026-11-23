@@ -1,0 +1,24 @@
+{
+  "summary-bot": {
+    "name": "summary-bot",
+    "owner": "sean",
+    "scope": "Summarize meeting notes for Northlight Studios (fictional)",
+    "data_access": "meeting transcripts (read-only)",
+    "model": "vendor-model-x",
+    "tool": "summary-bot v0.1",
+    "status": "active",
+    "created_at": "2026-11-01T09:00:00",
+    "updated_at": "2026-11-01T09:00:00"
+  },
+  "demo-writer": {
+    "name": "demo-writer",
+    "owner": "sean",
+    "scope": "Draft demo copy for Harbor Lane Studio (fictional)",
+    "data_access": "public demo copy only",
+    "model": "vendor-model-y",
+    "tool": "demo-writer v0.2",
+    "status": "paused",
+    "created_at": "2026-10-15T09:00:00",
+    "updated_at": "2026-11-10T09:00:00"
+  }
+}
